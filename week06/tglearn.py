@@ -1,5 +1,5 @@
 import numpy as np
-
+# custom class
 class LinearRegression:
     def __init__(self):
         self.slope = None
